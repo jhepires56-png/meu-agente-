@@ -24,7 +24,7 @@ print('----------------------------')
 
 resposta = client.chat.completions.create(
     
-    model =  'openai/gpt-oss-120b',python -m pip install streamlit groqpython -m pip install streamlit groq
+    model =  'openai/gpt-oss-120b',
     messages=[
     {
         "role":"system",
